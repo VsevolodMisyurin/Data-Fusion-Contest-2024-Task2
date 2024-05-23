@@ -1,7 +1,7 @@
-**Data Fusion Contest 2024 - Задача 2 «Отток». Публичное решение.**
+**Data Fusion Contest 2024 - Task 2 “Churn”.**
 
 https://ods.ai/tracks/data-fusion-2024-competitions/competitions/data-fusion2024-churn/leaderboard
 
-Открытое решение для решения задач Time-to-Event RandomSurvivalForest. Два категориальных и три непрерывных признака. Библиотека - sklearn. Тип модели - RandomForestRegressor. Не лишено недостатков.
+Time-to-Event prediction. Two categorical and three continuous features. Library - sklearn. Model type - RandomSurvivalForest. Not optimal, but works.
 
-Качество предсказания составило 0,6583718075
+The prediction quality was 0.6583718075
